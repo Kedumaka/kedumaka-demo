@@ -1,2 +1,3 @@
 # kedumaka-demo
-First startup project
+First startup project.
+Author -Umakant Kedare 
